@@ -1,9 +1,10 @@
 
 # **Caesar's cipher**
     Caesar cipher, also known as the shift cipher, Caesar's code or Caesar shift is
-    one of the most simple and known cipher. 
-    My implementation use of pyperclip module to manage clipboars and 
-    to allow you to authomaticaly copy and past in console
+    one of the simplest and known cipher. 
+    My implementation use of pyperclip module to manage clipboard and 
+    to allow you to automatically copy and paste in console.
+
 
 # **Description:**
     Caesar cipher, also known as Caesar's cipher, the shift cipher, Caesar's code or Caesar shift, is one of     
